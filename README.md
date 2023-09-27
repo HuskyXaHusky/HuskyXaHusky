@@ -7,26 +7,6 @@
 ![Static Badge](https://img.shields.io/badge/UC-gorgeous-%25233BB143?link=https%3A%2F%2Fgithub.com%2FHuskyXaHusky%2FUCgorgeous)
  ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/HuskyXaHusky/UCgorgeous?label=v1.01&color=cyan&link=https%3A%2F%2Fgithub.com%2FHuskyXaHusky%2FUCgorgeous)
 
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Code example</th>
-        <th>Usage</th>
-    </tr>
-    <tr>
-        <td>```swift
-        @GetColor
-        ```</td>
-        <td>Ячейка 2.1</td>
-        <td>Ячейка 2.1</td>
-    </tr>
-    <tr>
-        <td>Ячейка 1.2</td>
-        <td>Ячейка 2.2</td>
-        <td>Ячейка 2.2</td>
-    </tr>
-</table>
-
 <!---
 HuskyXaHusky/HuskyXaHusky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
