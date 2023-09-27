@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning swift, JS (and everything connected with it).
 - 💞️ I’m looking to collaborate on ... anyone who will make me better.
 - 📫 How to reach me ... here
-- PS: I do not plan to post my projects here. However, I may place a few microscopic libraries. Which can be useful not only to me.
+![Static Badge](https://img.shields.io/badge/UC-gorgeous-%233BB143) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/HuskyXaHusky/UCgorgeous?label=v1.01&color=cyan&link=https%3A%2F%2Fgithub.com%2FHuskyXaHusky%2FUCgorgeous)
+
 
 <!---
 HuskyXaHusky/HuskyXaHusky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
