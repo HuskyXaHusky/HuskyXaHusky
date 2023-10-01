@@ -5,7 +5,7 @@
 - 📫 How to reach me ... here  
 
 ![Static Badge](https://img.shields.io/badge/UC-gorgeous-%25233BB143?link=https%3A%2F%2Fgithub.com%2FHuskyXaHusky%2FUCgorgeous)
- ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/HuskyXaHusky/UCgorgeous?label=v1.02&color=cyan&link=https%3A%2F%2Fgithub.com%2FHuskyXaHusky%2FUCgorgeous)
+ ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/HuskyXaHusky/UCgorgeous?label=v1.00&color=cyan&link=https%3A%2F%2Fgithub.com%2FHuskyXaHusky%2FUCgorgeous)
 
 <!---
 HuskyXaHusky/HuskyXaHusky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
